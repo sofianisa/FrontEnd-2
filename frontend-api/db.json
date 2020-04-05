@@ -1,0 +1,499 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "rahasia",
+      "role": "admin"
+    },
+    {
+      "password": "user1",
+      "username": "user",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "username": "sofia",
+      "password": "123",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "username": "tes",
+      "password": "a123",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "username": "akusiapa",
+      "password": "aab",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "username": "siapa",
+      "password": "123",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "username": "percobaan",
+      "password": "mnb",
+      "role": "user",
+      "id": 7
+    }
+  ],
+  "products": [
+    {
+      "title": "Nausicaä of the Valley of the Wind",
+      "image": "https://upload.wikimedia.org/wikipedia/id/b/bc/Nausicaaposter.jpg",
+      "imgHeader": "https://upload.wikimedia.org/wikipedia/id/b/bc/Nausicaaposter.jpg",
+      "sinopsis": "Seorang prajurit pecinta -damai, Princess Nausicaa, mati-matian berjuang untuk mencegah dua bangsa agar tak saling berperang dan menghancurkan mereka sendiri dan planet yang telah sekarat.",
+      "sutradara": "Hayao Miyazaki",
+      "genre": "Action, Adventure, Fantasy",
+      "durasi": "118",
+      "tahun": "1984",
+      "produksi": "STUDIO GHIBLI",
+      "trailer": "https://youtube.com/embed/6zhLBe319KE",
+      "id": 1
+    },
+    {
+      "title": "Laputa : Castle in the Sky",
+      "image": "https://cdn.medcom.id/dynamic/content/2017/12/11/800152/7FONMy2wEK.jpg?w=640",
+      "imgHeader": "https://cdn.medcom.id/dynamic/content/2017/12/11/800152/7FONMy2wEK.jpg?w=640",
+      "sinopsis": "Sebuah petulangan seru dimulai ketika Pazu, seorang murid insinyur, memata-matai seorang gadis yang turun dari langit bernama Sheeta. Pertemuan mereka berdua memulai kisah pencarian terhadap Laputa, sebuah kastil terbang yang menyimpan kekuatan legendaris. Perjalanan mereka berdua tidak mudah sebab mereka dikejar-kejar oleh bajak laut udara, pihak militer, hingga agen pemerintah rahasia yang semuanya menginginkan kekuatan misterius yang hanya dapat dikontrol oleh Sheeta. Film ini memenangkan Animage Anime Grand Prix tahun 1986.",
+      "sutradara": "Hayao Miyazaki",
+      "genre": "Action, Adventure, Fantasy",
+      "durasi": "126",
+      "tahun": "1986",
+      "produksi": "STUDIO GHIBLI",
+      "trailer": "https://youtube.com/embed/8ykEy-yPBFc",
+      "id": 2
+    },
+    {
+      "title": "Grave of the Fireflies",
+      "image": "https://miro.medium.com/max/1000/1*jDIAzCc6BXOZR6YstO3etQ.jpeg",
+      "imgHeader": "https://miro.medium.com/max/1000/1*jDIAzCc6BXOZR6YstO3etQ.jpeg",
+      "sinopsis": "Pada masa Perang Dunia II, film ini berkisah tentang pemuda dan adik perempuannya yang berusaha untuk bertahan hidup setelah terjadi peristiwa pemboman Kobe City.",
+      "sutradara": "Isao Takahata",
+      "genre": "War, Real-Life, Autobiography",
+      "durasi": "89",
+      "tahun": "1988",
+      "produksi": "STUDIO GHIBLI",
+      "trailer": "https://youtube.com/embed/4vPeTSRd580",
+      "id": 3
+    },
+    {
+      "title": "My Neighbor Totoro",
+      "image": "https://japancraft.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/v/cvr9781421561226_9781421561226_hr.jpeg",
+      "imgHeader": "https://japancraft.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/v/cvr9781421561226_9781421561226_hr.jpeg",
+      "sinopsis": "Mei dan Satsuki pindah ke rumah baru di pedesaan Jepang, agar lebih dekat dengan ibu mereka yang berada di rumah sakit. Di sana, mereka berteman dengan Totoro, makhluk raksasa seperti kelinci.",
+      "sutradara": "Hayao Miyazaki",
+      "genre": "Fantasy, Adventure",
+      "durasi": "86",
+      "tahun": "1988",
+      "produksi": "STUDIO GHIBLI",
+      "trailer": "https://youtube.com/embed/92a7Hj0ijLs",
+      "id": 4
+    },
+    {
+      "title": "Kiki Delivery Service",
+      "image": "https://upload.wikimedia.org/wikipedia/id/0/07/Kiki%27s_Delivery_Service_%28Movie%29.jpg",
+      "imgHeader": "https://upload.wikimedia.org/wikipedia/id/0/07/Kiki%27s_Delivery_Service_%28Movie%29.jpg",
+      "sinopsis": "Sebuah tradisi bagi semua penyihir muda yang baru beranjak 13 tahun untuk meninggalkan keluarga mereka saat malam bulan purnama dan pergi menjelajahi dunia untuk mengaplikasikan ilmu sihir mereka. Saat malam tersebut datang bagi Kiki, ia memulai perjalanannya bersama kucing hitam kesayangannya Jiji, untuk menemukan lokasi yang tepat di sebuah kota yang berada cukup jauh. Di kota tersebut, Kiki bersahabat dengan seorang pemilik toko roti dan membantunya memulai sebuah usaha baru, yaitu jasa pengiriman barang melalui udara.",
+      "sutradara": "Hayao Miyazaki",
+      "genre": "Fantasy, Adventure, Magic",
+      "durasi": "102",
+      "tahun": "1989",
+      "produksi": "STUDIO GHIBLI",
+      "trailer": "https://youtube.com/embed/4bG17OYs-GA",
+      "id": 5
+    },
+    {
+      "title": "Only Yesterday",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/OYpost.jpg/220px-OYpost.jpg",
+      "imgHeader": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/OYpost.jpg/220px-OYpost.jpg",
+      "sinopsis": "“Only Yesterday” diadaptasi dari manga berjudul “Omoide Poro Poro” karya Hotaru Okamoto dan Yuko Tone. Film ini berfokus pada kehidupan seorang gadis bernama Taeko Okajima (Miki Imai) dengan dua latar waktu (usia 10 pada tahun 1966 dan usia 27 pada 1982). Isao Takahata menuturkannya dengan alur flashback. Keunikan penceritaannya juga terdapat pada penyatuan dua adegan dalam latar berbeda, menjadikannya sinkronisasi yang indah.",
+      "sutradara": "Hayao Miyazaki",
+      "genre": "Slice of Life",
+      "durasi": "118",
+      "tahun": "1991",
+      "produksi": "STUDIO GHIBLI",
+      "trailer": "https://youtube.com/embed/x0ZrjocXVJ4",
+      "id": 6
+    },
+    {
+      "title": "Porco Rosso",
+      "image": "https://4.bp.blogspot.com/-wYqm7tIL5ms/WcZHWmoAb2I/AAAAAAAABtQ/Om_GkpgtW_UwJUbTmGYV9S0StfuD2R9CgCLcBGAs/s1600/Poster%2BPorco%2BRosso.jpg",
+      "imgHeader": "https://4.bp.blogspot.com/-wYqm7tIL5ms/WcZHWmoAb2I/AAAAAAAABtQ/Om_GkpgtW_UwJUbTmGYV9S0StfuD2R9CgCLcBGAs/s1600/Poster%2BPorco%2BRosso.jpg",
+      "sinopsis": "Ikuti kisah petualangan pilot pesawat capung 1920, dimana ia kebetulan terlihat mirip seperti babi humanoid.",
+      "sutradara": "Hayao Miyazaki",
+      "genre": "Adventure, Ship",
+      "durasi": "94",
+      "tahun": "1992",
+      "produksi": "STUDIO GHIBLI",
+      "trailer": "https://youtube.com/embed/awEC-aLDzjs",
+      "id": 7
+    },
+    {
+      "title": "Ocean Waves",
+      "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgPEZ1gc4xMFy2gbaSix8Ey9ajd.jpg",
+      "imgHeader": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgPEZ1gc4xMFy2gbaSix8Ey9ajd.jpg",
+      "sinopsis": "film animasi televisi yang diadaptasai dari novel karya Saeko Himuro. Film tahun 1993 dari Studio Ghibli ini disutradarai oleh Tomomi Mochizuki. Sebuah film animasi yang mengangkat tema tentang kisah cinta remaja (SMA), kisah cinta segitiga antara dua orang sahabat, Taku Morisaki dan Yutaka Matsuno kepada Rikako Muto.",
+      "sutradara": "Nozomu Takahashi, Toshio Suzuki, Seiji Okuda",
+      "genre": "Slice of Life, Comedy, Romance, Drama",
+      "durasi": "72",
+      "tahun": "1993",
+      "produksi": "STUDIO GHIBLI",
+      "trailer": "https://youtube.com/embed/VciuDweg61c",
+      "id": 8
+    },
+    {
+      "title": "Pom Poko",
+      "image": "https://lh3.googleusercontent.com/proxy/4OfkCiiEmMdUETvJDTfjJswag-8Gxj1S_dZh5I1ud7j5TUCfwWTNsIXW3VTnH2kfEm5nrsvgKJVR_xvzdJIfcSRHEc0JP6AlaijzIycgzSpFf5AIN2SwWJ5hbCw4Vgx7dA12wig4DEzsXf9ghIRlmGT2cA",
+      "imgHeader": "https://lh3.googleusercontent.com/proxy/4OfkCiiEmMdUETvJDTfjJswag-8Gxj1S_dZh5I1ud7j5TUCfwWTNsIXW3VTnH2kfEm5nrsvgKJVR_xvzdJIfcSRHEc0JP6AlaijzIycgzSpFf5AIN2SwWJ5hbCw4Vgx7dA12wig4DEzsXf9ghIRlmGT2cA",
+      "sinopsis": "Sebuah komunitas raccoon menyihir diri mereka sendiri untuk berubah bentuk dan berjuang keras untuk mencegah kehancuran rumah hutan mereka dari pembangunan perkotaan.",
+      "sutradara": "Isao Takahata",
+      "genre": "Animal, Fantasy",
+      "durasi": "119",
+      "tahun": "1994",
+      "produksi": "STUDIO GHIBLI",
+      "trailer": "https://youtube.com/embed/_7cowIHjCD4",
+      "id": 9
+    },
+    {
+      "title": "Whisper of the Heart",
+      "image": "https://img.reelgood.com/content/movie/35a0f22a-7858-4735-bfa5-84a461ac5971/poster-780.jpg",
+      "imgHeader": "https://img.reelgood.com/content/movie/35a0f22a-7858-4735-bfa5-84a461ac5971/poster-780.jpg",
+      "sinopsis": "Saat itu adalah libur musim panas terakhir Shizuku di bangku SMP. Sebagai seorang kutubuku yang sering mengunjungi perpustakaan, perjumpaannya dengan seekor kucing menuntunnya ke rumah Seiji Amasawa. Di situ, ia dikenalkan kepada kucing mistis yang mampu mengajarinya untuk melihat permata tersembunyi dalam hidup. Perjalanan Seiji dan Shizuku menuju kebahagiaan dipenuhi oleh berbagai macam tantangan yang harus dilewati. Ini adalah sebuah kisah menyentuh yang bercerita tentang bagaimana mereka mampu mengukir ruang kosong di hati masing-masing.",
+      "sutradara": "Hayao Miyazaki",
+      "genre": "Adventure, Magic, Romance",
+      "durasi": "111",
+      "tahun": "1995",
+      "produksi": "STUDIO GHIBLI",
+      "trailer": "https://youtube.com/embed/0pVkiod6V0U",
+      "id": 10
+    },
+    {
+      "title": "Princess Monoke",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Princess_Mononoke_Japanese_poster.png/220px-Princess_Mononoke_Japanese_poster.png",
+      "imgHeader": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Princess_Mononoke_Japanese_poster.png/220px-Princess_Mononoke_Japanese_poster.png",
+      "sinopsis": "Terjangkit oleh kutukan mematikan, pejuang muda Ashitaka berkelana menuju barat untuk mencari penyembuh kutukannya. Di sana, ia terbentur ke dalam sebuah konflik antara Lady Eboshi dan orang-orang dari Kota Besi dengan Princess Mononoke, seorang gadis yang dibesarkan oleh serigala dan tidak akan berhenti untuk mencegah manusia dari menghancurkan hutan tempat tinggalnya, beserta makhluk-makhluk yang tinggal di dalamnya.",
+      "sutradara": "Hayao Miyazaki",
+      "genre": "Action, War, Thriller",
+      "durasi": "133",
+      "tahun": "1997",
+      "produksi": "STUDIO GHIBLI",
+      "trailer": "https://youtube.com/embed/4OiMOHRDs14",
+      "id": 11
+    },
+    {
+      "title": "My Neighbor the Yamadas",
+      "image": "https://www.onderhond.com/thumbs/img/posters/300xauto/yamada-kun-full.jpg",
+      "imgHeader": "https://www.onderhond.com/thumbs/img/posters/300xauto/yamada-kun-full.jpg",
+      "sinopsis": "Film ini bercerita tentang kehidupan dan berbagai kesialan kesialan yang menimpa sebuah keluarga di Jepang.",
+      "sutradara": "Isao Takahata",
+      "genre": "Action, Adventure",
+      "durasi": "133",
+      "tahun": "1997",
+      "produksi": "STUDIO GHIBLI",
+      "trailer": "https://youtube.com/embed/1C9ujuCPlnY",
+      "id": 12
+    },
+    {
+      "title": "Spirited Away",
+      "image": "https://image.myanimelist.net/ui/CaZ7xaz-zv5AUC5K-jkGIZ8yVJpXICO-gYIJ44SqB36aCpw4iFNc9yQI2EAF-pEwbJtlV05xeBRH10BaAEHrxq6zIgsvdBMtBzrD52thTHE",
+      "imgHeader": "https://image.myanimelist.net/ui/CaZ7xaz-zv5AUC5K-jkGIZ8yVJpXICO-gYIJ44SqB36aCpw4iFNc9yQI2EAF-pEwbJtlV05xeBRH10BaAEHrxq6zIgsvdBMtBzrD52thTHE",
+      "sinopsis": "kisah seorang gadis berumur 10 tahun bernama Chihiro dan kedua orangtuanya yang masuk ke sebuah tempat yang terlihat sebagai sebuah taman hiburan yang terabaikan. Setelah kedua orangtuanya berubah menjadi babi raksasa, Chihiro bertemu dengan sosok misterius Haku yang menjelaskan kepadanya bahwa tempat mereka berada adalah sebuah resort di mana makhluk supernatural berisitrahat dari alam duniawi. Untuk dapat membebaskan kedua orangtuanya, Chihiro harus bekerja di sebuah bath house yang dikepalai oleh penyihir bernama Yubaba.",
+      "sutradara": "Hayao Miyazaki",
+      "genre": "Fantasy, Adventure, Author Choice",
+      "durasi": "125",
+      "tahun": "2001",
+      "produksi": "STUDIO GHIBLI",
+      "trailer": "https://youtube.com/embed/ByXuk9QqQkk",
+      "id": 13
+    },
+    {
+      "title": "The Cat Return",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91RSRVlTIBL.jpg",
+      "imgHeader": "https://images-na.ssl-images-amazon.com/images/I/91RSRVlTIBL.jpg",
+      "sinopsis": "bercerita tentang Haru ( Anne hathaway ), dia menolong kucing yang hampir saja terserempet mobil. Rupanya kucing yang ditolong itu adalah pangeran kucing, maka datanglah sekelompok kucing yang mengucapkan terimakasih kepadanya.",
+      "sutradara": "Hiroyuki Morita",
+      "genre": "Animals, Adventure, Fantasy",
+      "durasi": "75",
+      "tahun": "2002",
+      "produksi": "STUDIO GHIBLI",
+      "trailer": "https://youtube.com/embed/Gp-H_YOcYTM",
+      "id": 14
+    },
+    {
+      "title": "Howl's Moving Castle",
+      "image": "https://cdn11.bigcommerce.com/s-5xebt25/images/stencil/original/products/4902/23027/SG277-1__18111.1462327947.jpg?c=2&imbypass=on",
+      "imgHeader": "https://cdn11.bigcommerce.com/s-5xebt25/images/stencil/original/products/4902/23027/SG277-1__18111.1462327947.jpg?c=2&imbypass=on",
+      "sinopsis": "Sophie diceritakan sebagai seorang pengrajin topi berusia 18 tahun. Ia kemudian dikutuk oleh seorang penyihir yang mengubahnya menjadi nenek tua berumur 90 tahun. Sophie pada awalnya cemas akan perubahan yang dialaminya. Namun, ia mencoba untuk menerimanya sebagai pembebasan dari rasa gugup, takut, dan tidak sadar diri. Perubahan tersebut mungkin merupakan kesempatan bagi sebuah petualangan.",
+      "sutradara": "Hayao Miyazaki",
+      "genre": "Action, Sky",
+      "durasi": "119",
+      "tahun": "2004",
+      "produksi": "STUDIO GHIBLI",
+      "trailer": "https://youtube.com/embed/iwROgK94zcM",
+      "id": 15
+    },
+    {
+      "title": "Tales from Earthsea",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Gedo6sn.jpg/220px-Gedo6sn.jpg",
+      "imgHeader": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Gedo6sn.jpg/220px-Gedo6sn.jpg",
+      "sinopsis": "Film ini diangkat dari kombinasi alur cerita dan karakter yang tertulis dalam empat buku karya Ursula K. Le Guin berjudul Earthsea series: A Wizard of Earthsea, The Tombs of Atuan, The Farthest Shore, dan Tehanu.",
+      "sutradara": "Toshio Suzuki, Tomohiko, Ishii",
+      "genre": "Action, War, Sky",
+      "durasi": "115",
+      "tahun": "2006",
+      "produksi": "STUDIO GHIBLI",
+      "trailer": "https://youtube.com/embed/8hxYx3Jq3kI",
+      "id": 16
+    },
+    {
+      "title": "Ponyo",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9d/Ponyo_%282008%29.png",
+      "imgHeader": "https://upload.wikimedia.org/wikipedia/en/9/9d/Ponyo_%282008%29.png",
+      "sinopsis": "Serial animasi petualangan ini berpusat pada seorang bocah 5 tahun dan hubungannya dengan seorang putri ikan mas yang telah lama menanti untuk dapat berubah kembali menjadi manusia.",
+      "sutradara": "Hayao Miyazaki",
+      "genre": "Fantasy, Sea, Author Choice",
+      "durasi": "101",
+      "tahun": "2008",
+      "produksi": "STUDIO GHIBLI",
+      "trailer": "https://youtube.com/embed/CsR3KVgBzSM",
+      "id": 17
+    },
+    {
+      "title": "Arrietty",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Karigurashi_no_Arrietty_poster.png/220px-Karigurashi_no_Arrietty_poster.png",
+      "imgHeader": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Karigurashi_no_Arrietty_poster.png/220px-Karigurashi_no_Arrietty_poster.png",
+      "sinopsis": "Diadaptasi dari novel berjudul The Borrowers karya Mary Norton.",
+      "sutradara": "Hiromasa Yonebayashi",
+      "genre": "Fantasy",
+      "durasi": "95",
+      "tahun": "2010",
+      "produksi": "STUDIO GHIBLI",
+      "trailer": "https://youtube.com/embed/9CtIXPhPo0g",
+      "id": 18
+    },
+    {
+      "title": "From Up on Poppy Hill",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/5166Ss1chWL._AC_.jpg",
+      "imgHeader": "https://images-na.ssl-images-amazon.com/images/I/5166Ss1chWL._AC_.jpg",
+      "sinopsis": "Berlatar belakang di Yokohama tahun 1963, From Up On Poppy Hill adalah sebuah kisah cinta di mana karakter utamanya adalah siswa SMA yang akan menjadi generasi pertama dari Jepang yang baru. Seiring dengan memulihnya Jepang dari kehancuran yang dihadapinya akibat Perang Dunia II.",
+      "sutradara": "Gorō Miyazaki",
+      "genre": "Romance",
+      "durasi": "92",
+      "tahun": "2011",
+      "produksi": "STUDIO GHIBLI",
+      "trailer": "https://youtube.com/embed/9-rhgSCAqDU",
+      "id": 19
+    },
+    {
+      "title": "The Wind Rises",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a3/Kaze_Tachinu_poster.jpg",
+      "imgHeader": "https://upload.wikimedia.org/wikipedia/en/a/a3/Kaze_Tachinu_poster.jpg",
+      "sinopsis": "Kaze Tachinu adalah biografi fiksi sejarah dari insinyur aeronautika Jiro Horikoshi yang merancang pesawat-pesawat tempur Angkatan Laut Kekaisaran Jepang selama Perang Dunia II, termasuk pesawat tempur Mitsubishi A6M Zero. Film ini adalah film mengenai perang, tetapi bukan sebuah film perang.",
+      "sutradara": "Hayao Miyazaki",
+      "genre": "Romance",
+      "durasi": "126",
+      "tahun": "2013",
+      "produksi": "STUDIO GHIBLI",
+      "trailer": "https://youtube.com/embed/2QFBZgAZx7g",
+      "id": 20
+    },
+    {
+      "title": "The Tale of the Princess Kaguya",
+      "image": "https://i2.wp.com/thegameofnerds.com/wp-content/uploads/2017/06/poster.jpg?resize=500%2C700&ssl=1",
+      "imgHeader": "https://i2.wp.com/thegameofnerds.com/wp-content/uploads/2017/06/poster.jpg?resize=500%2C700&ssl=1",
+      "sinopsis": "Ditemukan dalam batang bambu oleh seorang pemotong bambu dan istrinya, seorang gadis kecil tumbuh menjadi seorang gadis yang menawan. Putri muda yang misterius itu memukau semua yang memandangnya, namun ia harus menemui takdirnya, untuk menebus kejahatan yang ia lakukan.",
+      "sutradara": "Isao Takahata",
+      "genre": "Fantasy",
+      "durasi": "137",
+      "tahun": "2013",
+      "produksi": "STUDIO GHIBLI",
+      "trailer": "https://youtube.com/embed/tM6hcHp0_kU",
+      "id": 21
+    },
+    {
+      "title": "When Marnie Was There",
+      "image": "https://upload.wikimedia.org/wikipedia/id/0/04/Omiode_no_Marnie_poster.jpg",
+      "imgHeader": "https://upload.wikimedia.org/wikipedia/id/0/04/Omiode_no_Marnie_poster.jpg",
+      "sinopsis": "Dikirim dari rumah yatim piatu di kota menuju sebuah kota kecil di pinggiran laut di Hokkaido, Anna bermimpi untuk dapat melarikan diri dari sekelilingnya. Ia percaya ia berada di luar lingkaran sihir tak terlihat yang merupakan bagian dari orang-orang, dan menutup dirinya dari semua orang yang berada di sekitarnya. Anna tidak pernah berharap untuk dapat bertemu teman seperti Marnie, yang tidak menilai Anna dari siapa dirinya. Seiring dengan Anna menyadari keindahan persahabatan barunya, ia pun juga mulai bertanya-tanya tentang teman barunya tersebut.",
+      "sutradara": "Yoshiaki Nishimura, Hiromasa Yonebayashi",
+      "genre": "Romance, Slice of Life",
+      "durasi": "103",
+      "tahun": "2014",
+      "produksi": "STUDIO GHIBLI",
+      "trailer": "https://youtube.com/embed/PZq4uuMP8ss",
+      "id": 21
+    }
+  ],
+  "kategoris": [
+    {
+      "id2": 1,
+      "nama": "classic"
+    },
+    {
+      "id2": 2,
+      "nama": "Sounds"
+    },
+    {
+      "id2": 3,
+      "nama": "Instrument"
+    }
+  ],
+  "transactions": [
+    {
+      "status": "oncart",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "status": "oncart",
+      "userId": 4,
+      "id": 2
+    }
+  ],
+  "transactiondetails": [
+    {
+      "transactionId": 1,
+      "productId": 4,
+      "qty": 1,
+      "id": 3
+    },
+    {
+      "transactionId": 1,
+      "productId": 3,
+      "qty": 1,
+      "id": 4
+    },
+    {
+      "transactionId": 1,
+      "productId": 3,
+      "qty": 1,
+      "id": 5
+    },
+    {
+      "transactionId": 1,
+      "productId": 6,
+      "qty": 1,
+      "id": 6
+    },
+    {
+      "transactionId": 1,
+      "productId": 4,
+      "qty": 1,
+      "id": 7
+    },
+    {
+      "transactionId": 2,
+      "productId": 3,
+      "qty": 1,
+      "id": 8
+    },
+    {
+      "transactionId": 2,
+      "productId": 2,
+      "qty": 1,
+      "id": 9
+    }
+  ],
+  "movies": [
+    {
+      "title": "Laputa: Castle in the Sky",
+      "image": "https://upload.wikimedia.org/wikipedia/id/b/bc/Nausicaaposter.jpg",
+      "imgHeader": "https://upload.wikimedia.org/wikipedia/id/b/bc/Nausicaaposter.jpg",
+      "sinopsis": "Seorang prajurit pecinta -damai, Princess Nausicaa, mati-matian berjuang untuk mencegah dua bangsa agar tak saling berperang dan menghancurkan mereka sendiri dan planet yang telah sekarat. Film ini memenangkan Animage Anime Grand Prix tahun 1986.",
+      "sutradara": "Hayao Miyazaki",
+      "genre": "Action, Adventure, Fantasy",
+      "durasi": "126",
+      "tahun": "1984",
+      "produksi": "STUDIO GHIBLI",
+      "trailer": "https://www.youtube.com/embed/8Qn_spdM5Zg",
+      "id": 2
+    },
+    {
+      "title": "Nausicaä of the Valley of the Wind",
+      "image": "https://upload.wikimedia.org/wikipedia/id/b/bc/Nausicaaposter.jpg",
+      "imgHeader": "https://upload.wikimedia.org/wikipedia/id/b/bc/Nausicaaposter.jpg",
+      "sinopsis": "Seorang prajurit pecinta -damai, Princess Nausicaa, mati-matian berjuang untuk mencegah dua bangsa agar tak saling berperang dan menghancurkan mereka sendiri dan planet yang telah sekarat.",
+      "sutradara": "Hayao Miyazaki",
+      "genre": "Action, Adventure, Fantasy",
+      "durasi": "126",
+      "tahun": "1986",
+      "produksi": "STUDIO GHIBLI",
+      "trailer": "https://www.youtube.com/embed/8Qn_spdM5Zg",
+      "id": 2
+    },
+    {
+      "title": "Castle in the sky",
+      "image": "https://id.bmscdn.com/events/Large/ET00007241.jpg",
+      "imgHeader": "https://id.bmscdn.com/events/showcasesynopsis/ET00007241.jpg",
+      "sinopsis": " Film ini memenangkan Animage Anime Grand Prix tahun 1986.",
+      "sutradara": "Rian Johnson",
+      "genre": "Comedy, Crime, Drama",
+      "durasi": "120",
+      "produksi": "RANS ENTERTAINMENT",
+      "jadwal": [
+        12,
+        14,
+        18,
+        20,
+        22
+      ],
+      "trailer": "https://www.youtube.com/embed/sL-9Khv7wa4",
+      "studioId": "1",
+      "id": 5
+    },
+    {
+      "title": "Cats",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157542998785544_287x421.jpg",
+      "imgHeader": "https://id.bmscdn.com/events/showcasesynopsis/ET00007225.jpg",
+      "sinopsis": "Sebuah adaptasi drama musikal yang kisahnya terinspirasi dari puisi Old Possums Book of Practical Cats karya T.S. Elliot. Bercerita tentang suku kucing bernama Jellicle yang pada suatu malam, mereka memutuskan untuk mengubah takdir hidupnya menjadi lebih baik dengan melewati Heaviside Layer.",
+      "sutradara": "Aris ",
+      "genre": "Animasi",
+      "durasi": "132",
+      "produksi": "RANS ENTERTAINMENT",
+      "jadwal": [
+        18,
+        20
+      ],
+      "trailer": "https://www.youtube.com/embed/FtSd844cI7U",
+      "id": 8
+    },
+    {
+      "title": "Black Christmas",
+      "image": "https://id.bmscdn.com/events/Large/ET00007007.jpg",
+      "imgHeader": "https://id.bmscdn.com/events/showcasesynopsis/ET00007007.jpg",
+      "sinopsis": "BLACK CHRISTMAS merupakan film thriller yang disutradarai oleh Sophia Takal. Sekelompok mahasiswi di ikuti oleh orang asing, saat sedang liburan Natal mereka. Itu sampai seorang mahasiswi muda menemukan bahwa ada pembunuh dari perguruan tinggi.  Dibintangi oleh Imogen Poots, Cary Elwes, Brittany O'Grady. Beli tiket bioskop online kamu di BookMyShow.",
+      "sutradara": "Sophia Takal",
+      "genre": "Drama",
+      "durasi": "123",
+      "produksi": "RANS ENTERTAINMENT",
+      "jadwal": [
+        18,
+        20
+      ],
+      "trailer": "https://www.youtube.com/embed/DH-9_6Eg-qc",
+      "studioId": "2",
+      "id": 10
+    },
+    {
+      "title": "Dabangg 3",
+      "image": "https://id.bmscdn.com/events/Large/ET00007254.jpg",
+      "imgHeader": "https://id.bmscdn.com/events/showcasesynopsis/ET00007254.jpg",
+      "sinopsis": "DABANGG 3 merupakan film aksi India yang disutradarai oleh Prabhu Deva. Inspektur polisi yang selalu beruntung, danpemberani, Chulbul Pandey, kembali lagi untuk menghadapi Bali Singh, seorang penjahat yang mengganggu, dan merusak hidup orang banyak.\n\nDibintangi oleh Salman Khan, Arbaaz Khan, Nikhil Dwivedi. Beli tiket bioskop online kamu di BookMyShow.",
+      "sutradara": "Prabhu Deva",
+      "genre": "Action",
+      "durasi": "203",
+      "produksi": "RANS ENTERTAINMENT",
+      "jadwal": [],
+      "trailer": "https://www.youtube.com/embed/-AJ7cLi1Jfk",
+      "studioId": "1",
+      "id": 11
+    }
+  ]
+}
